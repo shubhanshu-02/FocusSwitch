@@ -1,4 +1,4 @@
-# Gaze Control Project
+# Focus Switch - Gaze Control Project
 
 This project uses a webcam to detect which monitor a user is looking at and redirects keyboard input accordingly.
 
